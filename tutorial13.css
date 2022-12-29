@@ -1,0 +1,22 @@
+.cool::before{
+    content: 'hello ';
+    color:green;
+    border: 1px dotted black;
+    margin-bottom: 5px; 
+    padding: 5px;
+}
+.cocl::after{
+    content: 'hello ';
+    color:green;
+    border: 1px dotted black;
+    margin-bottom: 5px; 
+    padding: 5px;
+}
+.main-heading::before{
+    content: 'hello ';
+    color:red;
+}
+/* img::after{
+    content: 'hello ';
+} */
+/* img, br, input  */

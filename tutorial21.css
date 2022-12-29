@@ -1,0 +1,18 @@
+ /* viewport width - vw  */
+
+/* .box{
+    border: 4px solid red;
+    width: 50%;
+    padding: 5px;
+}
+
+h1{
+    border: 2px solid green;
+    width: 70%;
+} */
+
+.box{
+    height: 100 vmax;
+    /* vh, vm  */
+    background-color: cadetblue;
+}

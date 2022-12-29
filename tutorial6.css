@@ -1,0 +1,19 @@
+/* link, visited, hover, action */
+a:link{
+    color:orange;
+}
+a:visited{
+    color:red;
+}
+a:hover{
+    color:green;
+}
+a:active{
+    color:black;
+}
+/* p:hover{
+    color:green;
+}
+p:active{
+    background: #ccc;
+} */
